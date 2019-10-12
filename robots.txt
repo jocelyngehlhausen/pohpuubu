@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooziezajei.sophiethomas.co.uk/sitemap.xml
